@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83180428144",
+    "project_id": "mobileotp-ead03",
+    "storage_bucket": "mobileotp-ead03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83180428144:android:5f67ef46d958f1d029cdb5",
+        "android_client_info": {
+          "package_name": "com.example.assingmentotp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP8VcKmx_8ucgPtfVNk12xfHC0VU5P-BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

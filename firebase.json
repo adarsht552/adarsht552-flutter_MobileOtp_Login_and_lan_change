@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"mobileotp-ead03","appId":"1:83180428144:android:5f67ef46d958f1d029cdb5","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"mobileotp-ead03","configurations":{"android":"1:83180428144:android:5f67ef46d958f1d029cdb5","ios":"1:83180428144:ios:fef252319db8c1ec29cdb5"}}}}}}

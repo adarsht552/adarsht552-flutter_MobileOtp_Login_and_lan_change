@@ -1,0 +1,14 @@
+{
+  "select_language": "Selecciona tu idioma",
+  "change_language_any_time": "Puedes cambiar el idioma en cualquier momento",
+  "next": "Siguiente",
+  "valid_mobile_number": "Por favor ingresa un número de teléfono móvil válido de 10 dígitos",
+  "verify_phone": "Verificar Teléfono",
+  "otp_sent_to": "Se ha enviado un código a tu número {{phoneNumber}}",
+  "invalid_otp": "Por favor ingresa un OTP válido de 6 dígitos",
+  "failed_send_otp": "Falló el envío del OTP. Por favor intenta de nuevo.",
+  "failed_verify_otp": "Falló la verificación del OTP. Por favor intenta de nuevo.",
+  "resend_code": "¿No recibiste el código?",
+  "request_again": "Solicitar de nuevo",
+  "verify_continue": "VERIFICAR Y CONTINUAR"
+}

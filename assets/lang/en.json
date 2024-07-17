@@ -1,0 +1,14 @@
+{
+  "select_language": "Select Your Language",
+  "change_language_any_time": "You can change the language at any time",
+  "next": "Next",
+  "valid_mobile_number": "Please enter a valid 10-digit mobile number",
+  "verify_phone": "Verify Phone",
+  "otp_sent_to": "Code is sent to your number {{phoneNumber}}",
+  "invalid_otp": "Please enter a valid 6-digit OTP",
+  "failed_send_otp": "Failed to send OTP. Please try again.",
+  "failed_verify_otp": "Failed to verify OTP. Please try again.",
+  "resend_code": "Didn't receive the code?",
+  "request_again": "Request Again",
+  "verify_continue": "VERIFY AND CONTINUE"
+}
